@@ -1,5 +1,5 @@
 # Basic
-name:               "Kiko"
+name:               "Himanshu"
 description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
 url:                "//kiko.gfjaru.com"
@@ -24,9 +24,6 @@ nav:
   - name:           "About"
     remote:         false
     localpath:      "about"
-  - name:           "Download"
-    remote:         true
-    href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
 sass:
