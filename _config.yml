@@ -11,7 +11,8 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            ""
+url: "https://himanshu-pi.github.io"
+baseurl:            "/my-blog"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
